@@ -1,0 +1,23 @@
+
+*************************************************************************
+DESCRIPCION DEL MODELO EN FASE DE TERMINO PARA EL PROCESO DE MANUFACTURA
+*************************************************************************
+
+✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ NUMERO #1 ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐
+En el presente modelo no se detallan las medidas de longitud(LARGO. ANCHO, PROFUNDIDAD) de las piezas color CAFE, ya que se espera que todas ellas midan 1CM.
+
+Por tanto donde halla color CAFE represente esto como un 1CM de ESPESOR.
+
+✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ NUMERO #2 ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐
+En el presente modelo del lado izquierdo hay dos RECTANGULOS de color AZUL, los cuales representan espacios vacios, en blanco, sin ningun tipo de bloqueo.
+
+Se espera que ambos lados esten conectados de tal manera que se pueda pasar cableado por el mismo camino.
+
+Se repite, el canal entre los dos puntos AZULES, los dos RECTANGULOS de color AZUL tienen que estar conectados por un conducto, ambos lados abiertos sin obstrucciones
+para poder realizar cableado.
+
+✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ NUMERO #3 ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐ ✐
+En el presente modelo se encuentra una pieza que se espera sea la tapa-cubierta, para la parte izquierda inferior, los cuadros de color AZUL, representan 
+lo puntos donde serian ideales tornillos los cuales permitan asegurar la misma con los bordes de la base que sobresalen.
+
+De tal manera que al abrir la tapa podamos encontrar el espacio cubierto por la superficio verde.
